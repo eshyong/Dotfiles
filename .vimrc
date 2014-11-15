@@ -24,8 +24,9 @@ set nohlsearch
 
 let mapleader=","
 
-nmap <S-Enter> O<Esc>
-nmap <CR> o<Esc>
-
 map <Leader>n :bn<CR>
 map <Leader>p :bp<CR>
+map <Leader>d :bd<CR>
+
+nmap j gj
+nmap k gk
