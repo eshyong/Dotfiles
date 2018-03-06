@@ -1,4 +1,6 @@
-call pathogen#infect()
+if has("pathogen")
+    call pathogen#infect()
+endif
 syntax on
 filetype plugin indent on
 
