@@ -24,7 +24,7 @@ set expandtab
 
 let mapleader=","
 
-# i don't even use this anymore
+" i don't even use this anymore
 map <Leader>n  :bn<CR>
 map <Leader>p  :bp<CR>
 map <Leader>d  :bd<CR>
@@ -32,14 +32,14 @@ map <Leader>q  :q!<CR>
 map <Leader>w  :w<CR>
 map <Leader>wq :wq<CR>
 
-# move cursor by display lines, not actual lines (useful for files with long lines)
+" move cursor by display lines, not actual lines (useful for files with long lines)
 nmap j gj
 nmap k gk
 
-# always show status line (current mode, file name, file status, ruler)
+" always show status line (current mode, file name, file status, ruler)
 set laststatus=2
 
-# search stuff
+" search stuff
 set ignorecase
 set smartcase
 set nohlsearch
