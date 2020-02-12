@@ -6,7 +6,7 @@ filetype plugin indent on
 
 set shell=/bin/sh
 
-set background=light
+set background=dark
 set mouse=a
 set number
 
