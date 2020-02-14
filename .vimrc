@@ -1,4 +1,4 @@
-# vundle setup (copied from https://github.com/VundleVim/Vundle.vim/tree/b255382d6242d7ea3877bf059d2934125e0c4d95)
+" vundle setup (copied from https://github.com/VundleVim/Vundle.vim/tree/b255382d6242d7ea3877bf059d2934125e0c4d95)
 set nocompatible              " be iMproved, required
 filetype off                  " required
 
